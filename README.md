@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+_ I'm a fullstack software engineer, with more backend focus lately. _
+
+I'm currently based in Cluj-Napoca, Romania. 
+
+
+Current focus:
+ * :hammer: .net development 
+ * :cloud: cloud interest - having commercial experience with azure (and a few certifications)
+ * :money_with_wings: financial industry 
+ * :thinking: growing architecture skills 
+
+
+Thanks for taking an interest in my profile, take care !
 <!--
 **mihaitibrea/mihaitibrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
