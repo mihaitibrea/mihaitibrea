@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-_ I'm a full-stack software engineer, with more backend focus lately. _
+**I'm a full-stack software engineer, with a .net + angular background**
 
 I'm currently based in Cluj-Napoca, Romania. 
 
