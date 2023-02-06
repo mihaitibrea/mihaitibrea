@@ -3,11 +3,11 @@
 I am a Solution Architect | Senior Software Engineer | Consultant | Contractor | Freelancer with 𝐨𝐯𝐞𝐫 𝟏𝟎 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐝𝐞𝐥𝐢𝐯𝐞𝐫𝐲 in .NET.
 
 Current focus:
- * :hammer: .net development 
+ * :hammer: anything .net  
  * :cloud: cloud - Azure and AWS
  * :money_with_wings: financial industry 
  * :thinking: growing architecture skills 
- * 📃: getting certified
+ * 📃 getting certified
 
 💻 Interested in remote work only!
 
