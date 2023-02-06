@@ -2,12 +2,11 @@
 
 **I'm a full-stack software engineer, with a .net + angular background**
 
-I'm currently based in Cluj-Napoca, Romania. 
-
+**I am a Solution Architect | Senior Software Engineer | Consultant | Contractor | Freelancer with 𝐨𝐯𝐞𝐫 𝟏𝟎 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐝𝐞𝐥𝐢𝐯𝐞𝐫𝐲 in .NET. **
 
 Current focus:
  * :hammer: .net development 
- * :cloud: cloud interest - having commercial experience with azure (and a few certifications)
+ * :cloud: cloud interest - Azure and AWS
  * :money_with_wings: financial industry 
  * :thinking: growing architecture skills 
 
