@@ -2,16 +2,25 @@
 
 **I'm a full-stack software engineer, with a .net + angular background**
 
-**I am a Solution Architect | Senior Software Engineer | Consultant | Contractor | Freelancer with 𝐨𝐯𝐞𝐫 𝟏𝟎 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐝𝐞𝐥𝐢𝐯𝐞𝐫𝐲 in .NET. **
+I am a Solution Architect | Senior Software Engineer | Consultant | Contractor | Freelancer with 𝐨𝐯𝐞𝐫 𝟏𝟎 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐝𝐞𝐥𝐢𝐯𝐞𝐫𝐲 in .NET.
 
 Current focus:
  * :hammer: .net development 
- * :cloud: cloud interest - Azure and AWS
+ * :cloud: cloud - Azure and AWS
  * :money_with_wings: financial industry 
  * :thinking: growing architecture skills 
+ * 📃: getting certified
+
+💻 Interested in remote work only!
+
+🤝 Drop me a message if you need help with your problems!
+
+You can reach me at
+📧 mihai.tibrea@outlook.com
+🙋‍♂️ https://www.linkedin.com/in/mihai-tibrea/ 
 
 
-Thanks for taking an interest in my profile, take care !
+
 <!--
 **mihaitibrea/mihaitibrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
